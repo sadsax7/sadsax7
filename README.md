@@ -12,7 +12,7 @@
 
 ---
 
-![Reggae Banner](![hippo](https://giphy.com/gifs/cristiano-ronaldo-r1IMdmkhUcpzy))
+![Reggae Banner](![hippo](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzh6d2VzZW9ubnQydXplN3Yya3kxcXA3OHRmZ3czNzFkdmRncnpxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/127sxeBDbOqdYk/giphy.gif))
 
 ---
 
