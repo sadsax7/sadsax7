@@ -52,7 +52,9 @@
 
 ---
 
-## 🐍 Fun Stuff  
+## 🕹️ Mini-game
+**Flappy Square** — click to play on GitHub Pages  
+[![Play Flappy Square](https://img.shields.io/badge/Play-Now-success?logo=github)](https://sadsax7.github.io/<repo>/game/)
 
 <!--
 **sadsax7/sadsax7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
