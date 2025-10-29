@@ -12,7 +12,7 @@
 
 ---
 
-![Reggae Banner](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmY0b3NxN2UydHBlZmQ1dnZsc2p4eWJla2FscDU0OG4yYmtpeG9xcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yeXb4sjQLw5QA/giphy.gif)
+![Reggae Banner](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzh6d2VzZW9ubnQydXplN3Yya3kxcXA3OHRmZ3czNzFkdmRncnpxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/127sxeBDbOqdYk/giphy.gif)
 
 ---
 
