@@ -52,9 +52,20 @@
 
 ---
 
-## 🕹️ Mini-game
-**Flappy Square** — click to play on GitHub Pages  
-[![Play Flappy Square](https://img.shields.io/badge/Play-Now-success?logo=github)](https://sadsax7.github.io/game/)
+<div align="center">
+
+### 🎮 Mini-game — Flappy Square
+
+<a href="https://sadsax7.github.io/game/" target="_blank">
+  <img src="assets/cover.png" alt="Play Flappy Square" width="900">
+</a>
+<br><br>
+<a href="https://sadsax7.github.io/game/" target="_blank">
+  <img src="https://img.shields.io/badge/▶%20Play%20Now-4CAF50?style=for-the-badge&logo=github">
+</a>
+
+</div>
+
 
 
 <!--
