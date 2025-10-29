@@ -2,9 +2,9 @@
 
 💻 **Developer** | 🚀 **Problem Solver** | 🎶 **Music & Code Enthusiast**  
 
+-If i dont know how to do something, then i´ll learn.
 -I'm a **Developer** passionate about building MVPs fast ⚡, automations, and scalable solutions.  
 -I enjoy learning new tech and finding creative ways to generate value **from moment 0**.
--If i dont know how to do something, then i´ll learn.
 
 🎓 Currently studying **Computer Science @EAFIT** 🏫  
 🧠 Big believer that **fundamentals are everything** — I love understanding how things really work under the hood.  
