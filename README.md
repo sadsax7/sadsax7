@@ -4,6 +4,7 @@
 
 I'm a **Developer** passionate about building MVPs fast ⚡, automations, and scalable solutions.  
 I enjoy learning new tech and finding creative ways to generate value **from moment 0**.
+
 If i dont know how to do something, then i´ll learn.
 
 🎓 Currently studying **Computer Science @EAFIT** 🏫  
