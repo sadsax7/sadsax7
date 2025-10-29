@@ -19,7 +19,7 @@
 ## 🌟 About Me
 - 🔥 **Stacks:** `Python | Dart | PostgreSQL | Docker | gRPC`
 - 🎯 Focused on **AI wrappers, scrapers, and system design**
-- 🎸 Outside of code: electronic music,reggae, rap, rock 🎶 · fitness 💪  · soccer ⚽ · videogames 🎮 · books 📚
+- 🎸 Outside of code: electronic music, reggae, rap, rock 🎶 · fitness 💪  · soccer ⚽ · videogames 🎮 · books 📚
 - 🌍 Based in **Medellín, Colombia** 🇨🇴  
 
 ## 📩 **Let’s connect:**  
