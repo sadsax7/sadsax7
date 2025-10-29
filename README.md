@@ -57,7 +57,7 @@
 ### 🎮 Mini-game — Flappy Square
 
 <a href="https://sadsax7.github.io/game/" target="_blank">
-  <img src="assets/cover.png" alt="Play Flappy Square" width="900">
+  <img src="" alt="Play Flappy Square" width="900">
 </a>
 <br><br>
 <a href="https://sadsax7.github.io/game/" target="_blank">
