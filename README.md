@@ -2,7 +2,7 @@
 
 💻 **Developer** | 🚀 **Problem Solver** | 🎶 **Music & Code Enthusiast**  
 
--If i dont know how to do something, then i´ll learn.
+-If i dont know how to do something, then i´ll learn.  
 -I'm a **Developer** passionate about building MVPs fast ⚡, automations, and scalable solutions.  
 -I enjoy learning new tech and finding creative ways to generate value **from moment 0**.
 
