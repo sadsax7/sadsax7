@@ -2,12 +2,13 @@
 
 💻 **Developer** | 🚀 **Problem Solver** | 🎶 **Music & Code Enthusiast**  
 
-I'm a **Full Stack Developer** passionate about building MVPs fast ⚡, automations, and scalable solutions.  
-I enjoy learning new tech and finding creative ways to generate value **from moment 0**.  
+I'm a **Developer** passionate about building MVPs fast ⚡, automations, and scalable solutions.  
+I enjoy learning new tech and finding creative ways to generate value **from moment 0**.
+If i dont know how to do something, then i´ll learn.
 
 🎓 Currently studying **Computer Science @EAFIT** 🏫  
 🧠 Big believer that **fundamentals are everything** — I love understanding how things really work under the hood.  
-⚡ Passionate about finding **super efficient solutions** to problems.  
+⚡ Passionate about finding **efficient solutions** to problems.  
 
 ---
 
@@ -16,7 +17,7 @@ I enjoy learning new tech and finding creative ways to generate value **from mom
 ---
 
 ## 🌟 About Me
-- 🔥 **Stacks:** `Python | Dart | PostgreSQL | Docker | Kubernetes`
+- 🔥 **Stacks:** `Python | Dart | PostgreSQL | Docker | gRPC`
 - 🎯 Focused on **AI wrappers, scrapers, and system design**
 - 🎸 Outside of code: electronic music,reggae, rap, rock 🎶 · fitness 💪  · soccer ⚽ · videogames 🎮 · books 📚
 - 🌍 Based in **Medellín, Colombia** 🇨🇴  
@@ -44,10 +45,10 @@ I enjoy learning new tech and finding creative ways to generate value **from mom
 [![My Skills](https://skillicons.dev/icons?i=docker,aws,gcp,linux,ubuntu,wsl)](https://skillicons.dev)  
 
 ### 🗄️ Databases
-[![My Skills](https://skillicons.dev/icons?i=postgres,sqlite,mysql)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=postgres,sqlite,mysql)](https://skillicons.dev)
 
 ### 🧩 Miscellaneous
-[![My Skills](https://skillicons.dev/icons?i=git,github,gmail,postman,vscode,visualstudio,notion,npm)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=git,github,gmail,postman,vscode,visualstudio,notion)](https://skillicons.dev) 
 
 ---
 
