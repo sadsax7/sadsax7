@@ -27,12 +27,6 @@
 
 ---
 
-## 🏆 Coding & Algorithms  
-
-📚 I really enjoy **Data Structures & Algorithms** — solving problems, optimizing code, and pushing my brain to think smarter.  
-
----
-
 ## 🛠️ My Skills  
 
 ### 💻 Languages (From most used to least)
