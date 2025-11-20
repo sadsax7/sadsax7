@@ -48,17 +48,18 @@
 
 <div align="center">
 
-### 🎮 Mini-game — Flappy Square
-<a href="https://sadsax7.github.io/game/" target="_blank">
-  <img src="https://img.shields.io/badge/▶%20Play%20Now-4CAF50?style=for-the-badge&logo=github">
-</a>
+### 🎮 Mini-games
 
-### 🌊 Mini-game — CleanSea
+<a href="https://sadsax7.github.io/game/" target="_blank">
+  <img src="https://img.shields.io/badge/%E2%96%B6%20Play%20Flappy%20Square-4CAF50?style=for-the-badge&logo=github" alt="Play Flappy Square">
+</a>
+&nbsp;&nbsp;&nbsp;
 <a href="https://sadsax7.github.io/Ocean-Battle/" target="_blank">
   <img src="https://img.shields.io/badge/%E2%96%B6%20Play%20CleanSea-00bcd4?style=for-the-badge&logo=github&logoColor=white" alt="Play CleanSea">
 </a>
 
 </div>
+
 
 
 
